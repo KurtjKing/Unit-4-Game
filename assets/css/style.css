@@ -1,0 +1,60 @@
+.instruction {
+	border: 2px solid 	#000000;
+	padding: 2%;
+	background-color: 	FFFFFF; 
+	opacity: 0.6; 
+	font-family: cursive;
+	color: #FFC0CB;
+}
+
+.randomNumber {
+	border: 2px solid 	#000000;
+	padding: 3%;
+	background-color: 	FFFFFF; 
+	opacity: 0.6; 
+	color: #FFC0CB;
+	font-size: 200%; 
+	font-family: 'Lobster', cursive, 'sans-serif'; 
+}
+
+.totalWL { 
+	border: 2px solid 	#000000;
+	padding: 2%; 
+	background-color: 	FFFFFF; 
+	opacity: 0.6; 
+	font-family: 'Lobster', cursive, 'sans-serif'; 
+ }
+
+ .totalScore {
+ 	border: 2px solid	#000000; 
+ 	background-color: 	FFFFFF; 
+	opacity: 0.6; 
+	font-family: 'Lobster', cursive, 'sans-serif'; 
+	color: #FFC0CB;
+
+ }
+
+ .scoreDisplay {
+ 	border: 2px solid 	#000000;
+	padding: 3%; 
+	background-color: 	FFFFFF; 
+	opacity: 0.6; 
+	color: #FFC0CB;
+	font-size: 200%;
+	font-family: 'Lobster', cursive, 'sans-serif'; 
+ }
+
+ .wallpaper { 
+	background-image: url("/Unit-4-Game/assets/images/background_img.jpg");
+	background-size: 100%;
+ }
+
+ .header { 
+	font-family: 'Lobster', cursive, 'sans-serif';
+	color: #FFC0CB; 
+  }
+
+  .wins, .losses { 
+	padding: 2%;
+	color: #FFC0CB;
+  }
